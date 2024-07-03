@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap");
+
 * {
   padding: 0;
   margin: 0;
@@ -172,12 +174,12 @@ body {
   align-items: center;
 }
 
-.heading > i {
-  padding: 8px;
+.heading > span {
+  padding: 8px 12px;
   background-color: white;
   display: flex;
   border-radius: 5px;
-  font-size: 28px;
+  font-size: 16px;
   color: red;
 }
 
